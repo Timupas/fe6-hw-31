@@ -1,0 +1,17 @@
+.input{
+    width: 500px;
+    height: 40px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.button{
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(0, 115, 255);
+    color:  white;
+    font-weight: 900;
+    margin-left: 10px;
+}
